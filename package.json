@@ -20,6 +20,9 @@
   "dependencies": {
     "config": "^1.30.0",
     "dotenv": "^6.0.0",
-    "twit": "^2.2.10"
+    "fs": "0.0.1-security",
+    "node-spotify-api": "^1.0.7",
+    "twit": "^2.2.10",
+    "twitter": "^1.7.1"
   }
 }
